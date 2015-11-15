@@ -9,9 +9,7 @@ class SecondViewController: UIViewController, UITableViewDataSource {
     func tableView(tableView: UITableView, cellForRowAtIndexPath indexPath: NSIndexPath) -> UITableViewCell {
         var cell = UITableViewCell()
         cell.textLabel!.text = "Functions"
-        
-        return cell
-        
+        return file
     }
     
     override func viewDidLoad() {
