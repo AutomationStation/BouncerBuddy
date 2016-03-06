@@ -22,7 +22,7 @@ The Bouncer Buddy will utilize cloud technology in order to minimize computing h
 
 ## Contributors
 
-### Contributors on GitHub (lastname alphabetical order)
+### Contributors on GitHub ( lastname in alphabetical order)
 * [Tony Berrettini](https://github.com/ajberret)
 * [Xiaoyue Hong](https://github.com/xhonge)
 * [Wenjing Li](https://github.com/lwj13579)
