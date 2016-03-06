@@ -7,6 +7,9 @@ The Bouncer Buddy will utilize cloud technology in order to minimize computing h
 
 
 #### User Flow
+![userFlow](https://j.gifs.com/lY81K5.gif)
+![Userflowb](https://j.gifs.com/xko3qr.gif)
+![Userflow](https://j.gifs.com/2kG0xJ.gif)
 ![UserFlow](https://j.gifs.com/xko36n.gif)
 
 ## Download
