@@ -14,7 +14,7 @@ The Bouncer Buddy will utilize cloud technology in order to minimize computing h
 
 ## Download
 * [Version 1.0](https://github.com/AutomationStation/BouncerBuddy/archive/master.zip)
-* [Version 1.1](https://github.com/AutomationStation/BouncerBuddy/tree/master/BouncerBuddy(version1.1))
+* [Version 1.1](https://github.com/AutomationStation/BouncerBuddy/blob/master/BouncerBuddy.version1.1.zip)
 * Other Versions
 
 ## Usage
