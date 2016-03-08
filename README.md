@@ -40,8 +40,8 @@ The Bouncer Buddy will utilize cloud technology in order to minimize computing h
 * see [LICENSE](https://github.com/AutomationStation/BouncerBuddy/blob/master/License) file
 
 ## Version 
-* Version 1.0
-* Version 1.1
+* [Version 1.0](https://github.com/AutomationStation/BouncerBuddy/tree/master/03_03BouncerBuddy)
+* [Version 1.1](https://github.com/AutomationStation/BouncerBuddy/tree/master/BouncerBuddy(version1.1))
 
 ## How-to use this code
 * Download the zip folder, extract to your desktop and open with Xcode on Mac
