@@ -51,7 +51,7 @@ The Bouncer Buddy will utilize cloud technology in order to minimize computing h
 * Download the zip folder, extract to your desktop and open with Xcode on Mac
 
 ## Contact
-#### Developer/School
+#### Developer / School
 * Indiana University Bloomington 
 * School of Informatics and Computing
 * e-mail: soicugrd@indiana.edu
