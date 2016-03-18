@@ -1,5 +1,4 @@
 # Bouncer Buddy  iOS Application   
-
 #### Project description:
 The Bouncer Buddy is a facial recognition software and hardware system with which a picture of the customer can be taken and compared to the picture on the ID. The system will then send this input to the cloud which will run a facial recognition comparison between the two images. The output will come back to a live monitor presenting the image and the percentage of certainty on an exact match. This short detour can be used to scan questionable IDs as well as to assist the bouncers in making the decision as to whether the identification is real or not. This device can essentially decrease the amount of underage drinking and bar-going in exchange for a reduction in company losses due to lawsuits and upholding the full extent of the law with an increased accuracy. 
 
