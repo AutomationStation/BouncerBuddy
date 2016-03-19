@@ -39,7 +39,7 @@ The Bouncer Buddy will utilize cloud technology in order to minimize computing h
 * see [Cocoapots webpage](https://cocoapods.org/)
 
 ## License 
-* see [LICENSE](https://github.com/AutomationStation/BouncerBuddy/blob/master/License) file
+* see [LICENSE](https://github.com/AutomationStation/BouncerBuddy/blob/master/License.md) file
 
 ## Version 
 * [Version 1.0](https://github.com/AutomationStation/BouncerBuddy/tree/master/03_03BouncerBuddy)
