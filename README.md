@@ -4,7 +4,7 @@ The Bouncer Buddy is a facial recognition software and hardware system with whic
 
 The Bouncer Buddy will utilize cloud technology in order to minimize computing hardware by outsourcing the facial recognition action to a live server. This will allow for an increased accuracy in ID scanning which will mitigate two of an alcohol serving establishment’s biggest (and most expensive) issues: underage responsibility lawsuits and operating within the boundaries of the law. In addition to this function, the cloud database can be used as an updatable database which collects ID information, and can be used to help local area bars stay on top of underage bar hoppers and repeat offenders. This product is marketable within the boundaries of the law as a lucrative and dependable security assistant. The most important part of maintaining a community is keeping the people safe.
 
-#### IU GitHub directory
+#### IU GitHub directory 
 [IU.edu](https://github.iu.edu/AutomationStation)
 
 #### User Flow
