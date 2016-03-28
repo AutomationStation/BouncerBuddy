@@ -35,7 +35,7 @@ The Bouncer Buddy will utilize cloud technology in order to minimize computing h
 ### Third party libraries
 * see [OpenCV git](https://github.com/AutomationStation/opencv.git)
 * see [OpenCV webpage] (http://opencv.org)
-* see [Cocoapots](https://github.com/AutomationStation/CocoaPods.git)
+* see [Cocoapots git](https://github.com/AutomationStation/CocoaPods.git)
 * see [Cocoapots webpage](https://cocoapods.org/)
 
 ## License 
