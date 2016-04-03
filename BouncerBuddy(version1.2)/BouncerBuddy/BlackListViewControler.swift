@@ -1,5 +1,5 @@
 //
-//  BlackListViewControler.swift
+//  BlackListViewController.swift
 //  BouncerBuddy
 //
 //  Created by Sha Wu on 16/3/7.
